@@ -2,8 +2,8 @@
 
 ## CodeCuisine Menu Display System Challenge
 
-### Resource Used:
-Google
+### Resource Used: Scrimba
+
 
 ### Description:
 This project implements a menu display system for a restaurant's menu. It allows users to view the menu items categorized into starters, main courses, and desserts. Users can click on any menu item to add it to their order, which is displayed on the side along with the total price. Clicking on an item in the order removes it and deducts the item price from the total.
